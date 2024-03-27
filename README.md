@@ -8,7 +8,7 @@
 OpenWeather API
 
 天気を日本語に訳すため
-DSeep API 
+DeepL API 
 
 音声の作成に voicevox の docker が必要になります
 
